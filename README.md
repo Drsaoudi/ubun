@@ -34,7 +34,7 @@ $ heroku container:release -a <app-name> web
 
 #### With Heroku template
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dreamscached/herokude)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Drsaoudi/uban)
 
 
 ### Running locally
